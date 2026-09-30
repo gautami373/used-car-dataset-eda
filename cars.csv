@@ -1,0 +1,11 @@
+car_id,make,model,year,price,engine_size,horsepower,fuel_type,mileage
+101,Toyota,Camry,2021,24500,2.5,203,Gasoline,35000
+102,Honda,Civic,2020,22000,2.0,158,Gasoline,42000
+103,Ford,Mustang,2019,36000,5.0,460,Gasoline,18000
+104,Tesla,Model 3,2022,45000,0.0,283,Electric,12000
+105,Hyundai,Tucson,2021,26500,2.5,187,Gasoline,29000
+106,BMW,3 Series,2023,43800,2.0,255,Gasoline,8500
+107,Chevrolet,Silverado,2020,38500,5.3,355,Gasoline,55000
+108,Audi,A4,2022,41000,2.0,261,Gasoline,16000
+109,Nissan,Altima,2018,17500,2.5,188,Gasoline,68000
+110,Kia,Sportage,2021,25800,2.4,181,Gasoline,31000
