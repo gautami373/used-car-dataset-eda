@@ -59,6 +59,71 @@ The presentation reports **0 missing values** in the analyzed columns. Outliers 
 The identified outliers were not automatically removed because they may represent actual high-priced or high-mileage vehicles and could contain useful information.
 
 ## Files
+Imports                            
+
+↓
+
+Student/project details
+
+↓
+
+Upload CSV
+
+↓
+
+df.info()
+
+↓
+
+Duplicate check
+
+↓
+
+Remove duplicates
+
+↓
+
+Duplicate check again
+
+↓
+
+Missing values
+
+↓
+
+Numeric columns
+
+↓
+
+Boxplot                 
+
+↓
+
+Histogram               
+
+↓
+
+Categorical analysis    
+
+↓
+
+Bivariate correlation   
+
+↓
+
+Scatter plot            
+
+↓
+
+Categorical vs numeric  
+
+↓
+
+Correlation heatmap     
+
+↓
+
+Pairplot                
 
 * 📊 **Dataset:** [Used Car Dataset](./used_car_dataset.csv)
 * 📓 **Google Colab Notebook:** [EDA Notebook](./used_car_eda.ipynb)
