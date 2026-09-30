@@ -1,9 +1,9 @@
 # used-car-dataset-eda
-Exploratory Data Analysis (EDA) on a used car dataset, including data cleaning, duplicate checking, numerical analysis, outlier detection, and data quality assessment.
+Exploratory Data Analysis (EDA) on a used car dataset, including data cleaning, duplicate checking, numerical analysis, outlier detection, and data quality assessment, histogram, categorical analysis, Bivariate correlation  ,Scatter plot, Categorical vs numeric ,Correlation heatmap ,Pairplot.            
 
 # Used Car Dataset – EDA
 
-Exploratory Data Analysis (EDA) of a used car dataset using Python and Pandas.
+Exploratory Data Analysis (EDA) of a used car dataset using Python and libraries
 
 ## About the Project
 
